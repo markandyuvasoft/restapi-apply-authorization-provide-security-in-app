@@ -1,3 +1,7 @@
+// create in route folder
+
+
+
 import express from 'express'
 import Student from '../model/student.js'
 import mongoose from 'mongoose'
