@@ -1,3 +1,5 @@
+//create in route folder
+
 import express from 'express'
 import User from '../model/user.js'
 import mongoose from 'mongoose'
