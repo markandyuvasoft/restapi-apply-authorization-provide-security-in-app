@@ -1,3 +1,5 @@
+//create in model folder save file only user.js
+
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema({
