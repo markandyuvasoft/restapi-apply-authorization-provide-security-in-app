@@ -1,8 +1,8 @@
+// create in middleware folder
+
+
 import express from 'express'
 import  Jwt  from 'jsonwebtoken'
-
- 
-
 
 const checkauth=(req,res,next)=>{
 
